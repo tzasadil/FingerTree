@@ -1,0 +1,2 @@
+# Generated Haddock output. Without this, GitHub labels the repo as HTML instead of Haskell.
+FingerTree/doc/** linguist-generated
