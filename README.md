@@ -46,4 +46,4 @@ cabal test
 
 API docs, generated with Haddock, are in `FingerTree/doc/html/FingerTree/index.html`.
 
-Built for the courses Programming II and Non-procedural Programming at Charles University (2019).
+Built for the courses Programming II and Non-procedural Programming at Charles University.
